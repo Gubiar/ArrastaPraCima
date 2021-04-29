@@ -1,0 +1,8 @@
+Cores Arrasta pra cima
+
+Verde - /*#2BC016*/ ou #35FF69 ou /*#05C77E*/
+Cinza - #494947 ou #d9d9d9
+Azul escuro/cinza - #4C4B63
+Preto - #1A1C1D
+Branco - #FCFCFC ou #f1faee
+vermelho - #ef233c
